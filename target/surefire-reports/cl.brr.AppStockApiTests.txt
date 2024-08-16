@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cl.brr.AppStockApiTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.073 s - in cl.brr.AppStockApiTests
